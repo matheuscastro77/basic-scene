@@ -2,7 +2,7 @@
 
 ## DEPLOY
 
-https://basic-scene-ten.vercel.app/
+[Basic Scene](https://basic-scene-ten.vercel.app/)
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
